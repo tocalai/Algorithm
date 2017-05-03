@@ -1,3 +1,7 @@
+/*Using backtraing to find the ways of coins exchange
+  Only suitable for the small amount  
+*/
+
 public class CoinChange
 {
         // exchange's pattern
